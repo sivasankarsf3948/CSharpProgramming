@@ -1,0 +1,17 @@
+C:\Users\SivasankarMathiyazha\OneDrive - Syncfusion\Documents\Desktop\C#\AssemblyReference\Dllfolder\StudentApplication\bin\Debug\net6.0\StudentApplication.exe
+C:\Users\SivasankarMathiyazha\OneDrive - Syncfusion\Documents\Desktop\C#\AssemblyReference\Dllfolder\StudentApplication\bin\Debug\net6.0\StudentApplication.deps.json
+C:\Users\SivasankarMathiyazha\OneDrive - Syncfusion\Documents\Desktop\C#\AssemblyReference\Dllfolder\StudentApplication\bin\Debug\net6.0\StudentApplication.runtimeconfig.json
+C:\Users\SivasankarMathiyazha\OneDrive - Syncfusion\Documents\Desktop\C#\AssemblyReference\Dllfolder\StudentApplication\bin\Debug\net6.0\StudentApplication.dll
+C:\Users\SivasankarMathiyazha\OneDrive - Syncfusion\Documents\Desktop\C#\AssemblyReference\Dllfolder\StudentApplication\bin\Debug\net6.0\StudentApplication.pdb
+C:\Users\SivasankarMathiyazha\OneDrive - Syncfusion\Documents\Desktop\C#\AssemblyReference\Dllfolder\StudentApplication\bin\Debug\net6.0\AdmissionLibrary.dll
+C:\Users\SivasankarMathiyazha\OneDrive - Syncfusion\Documents\Desktop\C#\AssemblyReference\Dllfolder\StudentApplication\obj\Debug\net6.0\StudentApplication.csproj.AssemblyReference.cache
+C:\Users\SivasankarMathiyazha\OneDrive - Syncfusion\Documents\Desktop\C#\AssemblyReference\Dllfolder\StudentApplication\obj\Debug\net6.0\StudentApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SivasankarMathiyazha\OneDrive - Syncfusion\Documents\Desktop\C#\AssemblyReference\Dllfolder\StudentApplication\obj\Debug\net6.0\StudentApplication.AssemblyInfoInputs.cache
+C:\Users\SivasankarMathiyazha\OneDrive - Syncfusion\Documents\Desktop\C#\AssemblyReference\Dllfolder\StudentApplication\obj\Debug\net6.0\StudentApplication.AssemblyInfo.cs
+C:\Users\SivasankarMathiyazha\OneDrive - Syncfusion\Documents\Desktop\C#\AssemblyReference\Dllfolder\StudentApplication\obj\Debug\net6.0\StudentApplication.csproj.CoreCompileInputs.cache
+C:\Users\SivasankarMathiyazha\OneDrive - Syncfusion\Documents\Desktop\C#\AssemblyReference\Dllfolder\StudentApplication\obj\Debug\net6.0\StudentApplication.csproj.CopyComplete
+C:\Users\SivasankarMathiyazha\OneDrive - Syncfusion\Documents\Desktop\C#\AssemblyReference\Dllfolder\StudentApplication\obj\Debug\net6.0\StudentApplication.dll
+C:\Users\SivasankarMathiyazha\OneDrive - Syncfusion\Documents\Desktop\C#\AssemblyReference\Dllfolder\StudentApplication\obj\Debug\net6.0\refint\StudentApplication.dll
+C:\Users\SivasankarMathiyazha\OneDrive - Syncfusion\Documents\Desktop\C#\AssemblyReference\Dllfolder\StudentApplication\obj\Debug\net6.0\StudentApplication.pdb
+C:\Users\SivasankarMathiyazha\OneDrive - Syncfusion\Documents\Desktop\C#\AssemblyReference\Dllfolder\StudentApplication\obj\Debug\net6.0\StudentApplication.genruntimeconfig.cache
+C:\Users\SivasankarMathiyazha\OneDrive - Syncfusion\Documents\Desktop\C#\AssemblyReference\Dllfolder\StudentApplication\obj\Debug\net6.0\ref\StudentApplication.dll
